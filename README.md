@@ -1,0 +1,2 @@
+# nerv-magi
+A biological super-computer developed by Dr. Naoko Akagi. It is often regarded as NERV's brain as it considers, examines, and resolves numerous pending problems and projects. The distinguishing characteristic of the MAGI system is that human dilemma is recreated by implanting human personality traits into the operating system.  A MAGI system is composed of three distinct bio-computer cores; Melchior-1, Balthasar-2, and Casper-3. 
